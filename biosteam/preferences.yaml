@@ -1,0 +1,31 @@
+N: 100
+P: Pa:.6g
+T: degC:.5g
+autodisplay: true
+background_color: '#ffffffaa'
+composition: true
+depth_colors:
+- '#7ac0832f'
+fill_cluster: true
+flow: kg/hr:.3g
+graphviz_format: html
+graphviz_html_height:
+  system: !!python/tuple
+  - 400px
+  - 600px
+  unit: !!python/tuple
+  - 225px
+  - 400px
+label_color: '#4e4e4e'
+label_streams: true
+minimal_nodes: false
+number_path: false
+profile: false
+raise_exception: false
+sort: false
+stream_color: '#4e4e4e'
+stream_width: F_mass
+tooltips_full_results: false
+unit_color: white:#CDCDCD
+unit_label_color: black
+unit_periphery_color: '#4e4e4e'
